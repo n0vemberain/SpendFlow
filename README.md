@@ -19,16 +19,14 @@
 ## 📱 App Previews & Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="30%" alt="Home Screen" />
+  <img src="screenshots/photo_1_2026-11-04_06-06-45.jpg" width="23%" alt="SpendFlow Screen 1" />
   &nbsp;&nbsp;
-  <img src="screenshots/analytics.png" width="30%" alt="Analytics Screen" />
+  <img src="screenshots/photo_2_2026-11-04_06-06-45.jpg" width="23%" alt="SpendFlow Screen 2" />
   &nbsp;&nbsp;
-  <img src="screenshots/history.png" width="30%" alt="History Screen" />
+  <img src="screenshots/photo_3_2026-11-04_06-06-45.jpg" width="23%" alt="SpendFlow Screen 3" />
+  &nbsp;&nbsp;
+  <img src="screenshots/photo_4_2026-11-04_06-06-45.jpg" width="23%" alt="SpendFlow Screen 4" />
 </p>
-
-| 1. Home Screen (Quick Record) | 2. Spending Analytics | 3. Transaction History |
-| :---: | :---: | :---: |
-| • Hero Net Balance Card (৳)<br>• Pure Green Income / Red Expense<br>• Custom Floating Category Picker<br>• Auto-detected local date | • Monthly Income vs Expense comparison<br>• Category expenditure breakdown<br>• Fixed viewport (no awkward scrolling)<br>• Month-by-month filter | • Instant live keyword search<br>• Filter by All, Income, or Expense<br>• Grouped transaction ledger<br>• One-tap deletion |
 
 ---
 
